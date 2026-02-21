@@ -4,5 +4,4 @@
 [github.com/cmgoersch](https://github.com/cmgoersch)
 
 🌐 **More about me:**  
-[cmgoersch.com](https://cmgoersch.com)# README.md
-# calle-goersch
+[cmgoersch.com](https://cmgoersch.com)
