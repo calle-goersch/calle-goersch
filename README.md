@@ -1,10 +1,8 @@
-# Exxeta Account
-
-Das ist mein **Exxeta Account**.
+# This is my exxeta Account
 
 🔗 **Privater Account:**  
 [github.com/cmgoersch](https://github.com/cmgoersch)
 
-🌐 **Mehr über mich:**  
+🌐 **More about me:**  
 [cmgoersch.com](https://cmgoersch.com)# README.md
 # calle-goersch
